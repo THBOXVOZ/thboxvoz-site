@@ -1,0 +1,77 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>THBOXVOZ | Video Editing Services</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background-color: #fff;
+    }
+    h1, h2, h3 {
+      color: #333;
+    }
+    a {
+      color: #007BFF;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      padding: 20px;
+      background-color: #f1f1f1;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>THBOXVOZ</h1>
+    <p><strong>Professional Video Editing Services – Reels | YouTube | Brands</strong></p><h2>About Me</h2>
+<p>I’m Shaan, a pro video editor dedicated to storytelling through visuals. From viral reels to cinematic YouTube cuts, I edit with purpose, passion, and precision.</p>
+
+<h2>Services</h2>
+<h3>Reels & Shorts</h3>
+<p>Captions, hooks, trending sounds – everything that grabs attention.</p>
+
+<h3>YouTube Videos</h3>
+<p>Up to 11 mins. Long-form, storytelling, vlogs, or breakdowns – I deliver fast & polished results.</p>
+
+<h3>Brand Promos</h3>
+<p>Motion graphics & product-focused reels designed to convert.</p>
+
+<h2>Portfolio</h2>
+<p><a href="https://www.instagram.com/thboxvoz" target="_blank">View Edits on Instagram</a></p>
+
+<h2>Pricing</h2>
+<ul>
+  <li><strong>Reels (60 sec)</strong>: Starts at ₹450</li>
+  <li><strong>YouTube (up to 11 mins)</strong>: ₹900 – ₹1500 depending on complexity</li>
+  <li><strong>Brand Motion Reels</strong>: Starts at ₹1500</li>
+  <li><strong>Brand Videos</strong>: Custom quote based on brief</li>
+</ul>
+<p>Includes up to 3 revisions. Payments accepted via UPI, Bank Transfer & Payoneer. No advance required.</p>
+
+<h2>Contact</h2>
+<p>DM me on <a href="https://www.instagram.com/thboxvoz" target="_blank">Instagram @thboxvoz</a> or email me at <strong>edit@thboxvoz.com</strong></p>
+
+  </div>  <footer>
+    &copy; 2025 THBOXVOZ. All rights reserved.
+  </footer>
+</body>
+</html>
